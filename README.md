@@ -15,8 +15,6 @@ To enable page navigation between components in a React project, the commonly us
 [freeCodeCamp](https://www.freecodecamp.org/news/how-to-use-react-router-version-6/)
 
 # Start vite
-cd my-project-react-router
-npm install
 npm run dev
 
 # React + Vite
